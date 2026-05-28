@@ -265,8 +265,8 @@ function AboutSection() {
             <div className="absolute inset-0 rounded-full border-2 border-accent/20" />
             <div className="absolute inset-8 rounded-full bg-accent-subtle opacity-60 blur-2xl" />
             <img src={penguinMascot} alt="" className="relative z-10 h-full w-full animate-float object-contain" />
-            <OrbitChip className="-left-4 top-12" label="XO" />
-            <OrbitChip className="-right-3 top-6" label="Nf3" />
+            <OrbitChip className="-left-4 top-12" label="KH" />
+            <OrbitChip className="-right-3 top-6" label="JJK" />
             <OrbitChip className="bottom-8 -left-1" label="JS" />
             <OrbitChip className="-right-5 bottom-14" label="AI" />
           </div>
